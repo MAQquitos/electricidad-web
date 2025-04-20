@@ -19,15 +19,15 @@ const Footer: React.FC = () => {
             <ul className="space-y-3">
               <li className="flex items-start space-x-3">
                 <Phone size={18} className="text-blue-600 dark:text-blue-400 mt-0.5" />
-                <span className="text-gray-600 dark:text-gray-300">+52 (123) 456-7890</span>
+                <span className="text-gray-600 dark:text-gray-300">+54 (385) 484-1221</span>
               </li>
               <li className="flex items-start space-x-3">
                 <Mail size={18} className="text-blue-600 dark:text-blue-400 mt-0.5" />
-                <span className="text-gray-600 dark:text-gray-300">contacto@generadorservice.com</span>
+                <span className="text-gray-600 dark:text-gray-300">felipediaz930@gmail.com</span>
               </li>
               <li className="flex items-start space-x-3">
                 <MapPin size={18} className="text-blue-600 dark:text-blue-400 mt-0.5" />
-                <span className="text-gray-600 dark:text-gray-300">Ciudad de México, México</span>
+                <span className="text-gray-600 dark:text-gray-300">La Banda, Santiago Del Estero </span>
               </li>
             </ul>
           </div>
@@ -35,7 +35,7 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-lg font-semibold text-gray-800 dark:text-white mb-4">Horario de atención</h3>
             <ul className="space-y-2">
-              <li className="text-gray-600 dark:text-gray-300">Lunes - Viernes: 9:00 AM - 6:00 PM</li>
+              <li className="text-gray-600 dark:text-gray-300">Lunes - Viernes: 15:00 - 19:00</li>
               <li className="text-gray-600 dark:text-gray-300">Sábados: 9:00 AM - 2:00 PM</li>
               <li className="text-gray-600 dark:text-gray-300">Domingos: Cerrado</li>
               <li className="text-gray-600 dark:text-gray-300 font-medium mt-2">Servicios de emergencia disponibles 24/7</li>
