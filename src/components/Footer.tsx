@@ -45,7 +45,7 @@ const Footer: React.FC = () => {
         
         <div className="mt-8 pt-8 border-t border-gray-200 dark:border-gray-700">
           <p className="text-center text-gray-500 dark:text-gray-400">
-            © {new Date().getFullYear()} GeneradorService. Todos los derechos reservados.
+            © {new Date().getFullYear()} MDsoluciones. Todos los derechos reservados.
           </p>
         </div>
       </div>
