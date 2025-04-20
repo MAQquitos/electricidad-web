@@ -28,7 +28,7 @@ const ContactPage: React.FC = () => {
                 <Phone className="w-5 h-5 text-blue-600 dark:text-blue-400 mt-1" />
                 <div>
                   <h4 className="font-medium text-gray-900 dark:text-white">Teléfono</h4>
-                  <p className="text-gray-600 dark:text-gray-300">+52 (123) 456-7890</p>
+                  <p className="text-gray-600 dark:text-gray-300">+54 (385) 484-1221</p>
                 </div>
               </div>
               
@@ -36,7 +36,7 @@ const ContactPage: React.FC = () => {
                 <Mail className="w-5 h-5 text-blue-600 dark:text-blue-400 mt-1" />
                 <div>
                   <h4 className="font-medium text-gray-900 dark:text-white">Email</h4>
-                  <p className="text-gray-600 dark:text-gray-300">contacto@generadorservice.com</p>
+                  <p className="text-gray-600 dark:text-gray-300">felipediaz930@gmail.com</p>
                 </div>
               </div>
               
@@ -45,8 +45,8 @@ const ContactPage: React.FC = () => {
                 <div>
                   <h4 className="font-medium text-gray-900 dark:text-white">Dirección</h4>
                   <p className="text-gray-600 dark:text-gray-300">
-                    Av. Principal #123<br />
-                    Ciudad de México, México
+                    Av. Besares 1915<br />
+                    Ciudad de La Banda, Santiago Del Estero
                   </p>
                 </div>
               </div>
@@ -56,7 +56,7 @@ const ContactPage: React.FC = () => {
                 <div>
                   <h4 className="font-medium text-gray-900 dark:text-white">Horario</h4>
                   <p className="text-gray-600 dark:text-gray-300">
-                    Lunes - Viernes: 9:00 AM - 6:00 PM<br />
+                    Lunes - Viernes: 15:00 - 18:00 <br />
                     Sábados: 9:00 AM - 2:00 PM
                   </p>
                 </div>
@@ -67,7 +67,7 @@ const ContactPage: React.FC = () => {
               <h4 className="font-medium text-gray-900 dark:text-white mb-2">Servicio de emergencia</h4>
               <p className="text-gray-600 dark:text-gray-300">
                 Disponible 24/7 para casos urgentes.<br />
-                Llama al +52 (123) 456-7890
+                Whatsapp: +54 (385) 484-1221
               </p>
             </div>
           </div>
