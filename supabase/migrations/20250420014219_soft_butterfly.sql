@@ -46,3 +46,9 @@ CREATE POLICY "Allow public users to insert contacts"
   FOR INSERT
   TO anon
   WITH CHECK (true);
+
+  CREATE POLICY "Allow anonymous inserts"
+ON "public"."contacts"
+FOR INSERT
+USING (true)
+WITH CHECK (true);
