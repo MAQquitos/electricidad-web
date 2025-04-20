@@ -10,7 +10,7 @@ const Header: React.FC = () => {
         <div className="flex justify-between items-center py-4">
           <Link to="/" className="flex items-center space-x-2 text-blue-600 dark:text-blue-400">
             <Zap size={24} className="text-blue-600 dark:text-blue-400" />
-            <span className="font-bold text-xl">GeneradorService</span>
+            <span className="font-bold text-xl">MDSOLUCIONES</span>
           </Link>
           
           <div className="flex items-center space-x-4">
